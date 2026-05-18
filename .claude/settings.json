@@ -1,0 +1,13 @@
+{
+  "projectName": "이란전쟁 민생 대시보드 v2",
+  "projectDescription": "수원시정연구원 | 미-이란전쟁(2026) 민생 영향 분석 에이전트 v2",
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(python *)",
+      "Bash(python3 *)",
+      "Bash(streamlit *)",
+      "Bash(pip *)"
+    ]
+  }
+}

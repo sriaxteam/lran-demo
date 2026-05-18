@@ -1,0 +1,16 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "이란전쟁 민생 대시보드 v2",
+      "runtimeExecutable": "streamlit",
+      "runtimeArgs": [
+        "run", "dashboard.py",
+        "--server.address", "0.0.0.0",
+        "--server.port", "8503",
+        "--server.headless", "true"
+      ],
+      "port": 8503
+    }
+  ]
+}
