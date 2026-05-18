@@ -1,0 +1,11 @@
+.env
+*.db
+*.log
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+data/raw/
+data/clean/
+*.xlsx
+*.txt

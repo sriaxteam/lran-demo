@@ -1,0 +1,34 @@
+{
+  "date": "2026-04-30",
+  "collected_at": "2026-05-04T06:53:00.657722",
+  "oil_price": {
+    "source": "오피넷",
+    "collected_at": "2026-05-04T06:53:00.657735",
+    "gasoline_national": 2003.82,
+    "gasoline_source": "GlobalPetrolPrices",
+    "wti_usd": 102.46,
+    "brent_usd": 108.76,
+    "dubai_usd": 107.26,
+    "dubai_source": "추산",
+    "dubai_note": "Brent 기반 추산 (-$1.5/bbl)",
+    "rbob_usd_gal": 3.5997
+  },
+  "exchange_rate": {
+    "source": "frankfurter.app",
+    "collected_at": "2026-05-04T06:53:05.675381",
+    "USD_KRW": 1477.0,
+    "EUR_KRW": 1728.4,
+    "date": "2026-04-30"
+  },
+  "cpi": {
+    "source": "통계청",
+    "collected_at": "2026-05-04T06:53:07.222145",
+    "note": "CPI 수집 실패 — KOSIS API 키 필요 (kosis.kr/openapi 무료 발급)",
+    "period_target": "202504 → 202604 전년동월비"
+  },
+  "gas_price": {
+    "source": "한국가스공사",
+    "collected_at": "2026-05-04T06:53:07.588674"
+  },
+  "gyeonggi_policy": []
+}
