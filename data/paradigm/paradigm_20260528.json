@@ -1,0 +1,251 @@
+{
+  "date": "2026-05-28",
+  "total_signals": 10,
+  "structural_signals": 10,
+  "signals": [
+    {
+      "signal_id": "sig_002",
+      "category": "에너지안보재편",
+      "title_ko": "AI 데이터센터 전력 수요 폭증",
+      "description": "• 2025년 데이터센터 전력 사용량 급증, 병목현상으로 솔루션 개발 경쟁\n• AI 인프라 확대로 전력망 부담 증가, 기존 에너지 계획 재조정 필요\n• 청정에너지 공급망 확보가 AI 경쟁력 결정 요인으로 부상",
+      "evidence_titles": [
+        "Energy and AI – Analysis",
+        "Energy demand from AI – Energy and AI – Analysis",
+        "Data centre electricity use surged in 2025, even with tightening bottlenecks driving a scramble for solutions"
+      ],
+      "evidence_sources": [
+        "IEA",
+        "IEA",
+        "IEA"
+      ],
+      "strength": 5,
+      "trend": "신규",
+      "suwon_implication": "수원시 전력 수요 예측 모델 재검토 필요. AI 산업 유치 시 전력 인프라 선제 투자 필수, 에너지 요금 체계 영향 가능",
+      "is_structural": true,
+      "detected_date": "2026-05-28",
+      "first_detected": "2026-05-28"
+    },
+    {
+      "signal_id": "sig_004",
+      "category": "정책패러다임전환",
+      "title_ko": "에너지 파트너십 기준 전환: 가격→신뢰",
+      "description": "• IEA 주요 보고서: 에너지 안보가 단순 가격 경쟁에서 공급 신뢰성 중심으로 재편\n• 중동 분쟁으로 호르무즈 해협 등 주요 에너지 수송로 리스크 재인식\n• 각국 정부, 에너지 수입선 다변화 및 비축 정책 강화",
+      "evidence_titles": [
+        "Strait of Hormuz",
+        "IEA releases major update to tracker of government responses to energy impacts of Middle East conflict",
+        "Energy Security – Topics"
+      ],
+      "evidence_sources": [
+        "IEA",
+        "IEA",
+        "IEA"
+      ],
+      "strength": 5,
+      "trend": "신규",
+      "suwon_implication": "수원시 난방비·전기료 안정화 정책 수립 시 단순 가격 인하가 아닌 공급 안정성 확보 전략 병행 필요. 장기 에너지 계약 재검토",
+      "is_structural": true,
+      "detected_date": "2026-05-28",
+      "first_detected": "2026-05-28"
+    },
+    {
+      "signal_id": "sig_001",
+      "category": "에너지안보재편",
+      "title_ko": "전기차 보급 가속화와 석유 수요 구조 전환",
+      "description": "• IEA 2026 전망: 전 세계 신차 판매 중 전기차 비중 30% 돌파 예상\n• 에너지 위기 대응으로 각국 정부·소비자가 전기차로 대거 전환\n• 중장기 석유 수요 감소 시나리오 현실화, 에너지 안보 기준 변화",
+      "evidence_titles": [
+        "Global EV Outlook 2026 – Analysis",
+        "Trends in electric cars – Global EV Outlook 2026",
+        "Close to 30% of cars sold this year are set to be electric as countries and consumers respond to energy crisis"
+      ],
+      "evidence_sources": [
+        "IEA",
+        "IEA",
+        "IEA"
+      ],
+      "strength": 4,
+      "trend": "강화",
+      "suwon_implication": "수원시 전기차 충전 인프라 확충 필요성 증대. 장기적으로 교통 에너지 비용 구조 변화 예상, 친환경 교통정책 가속화 기회",
+      "is_structural": true,
+      "detected_date": "2026-05-28"
+    },
+    {
+      "signal_id": "sig_003",
+      "category": "무역공급망재편",
+      "title_ko": "핵심 광물 공급망 안보 최우선 과제화",
+      "description": "• IEA 2025 핵심 광물 전망: 청정에너지 전환에 필수 광물 공급망 취약성 경고\n• 전기차 배터리, 태양광 패널 원자재 확보 경쟁 심화\n• 가격 기준에서 공급 신뢰성·지정학적 안정성 기준으로 전환",
+      "evidence_titles": [
+        "Global Critical Minerals Outlook 2025 – Analysis",
+        "The Role of Critical Minerals in Clean Energy Transitions – Analysis",
+        "Electric vehicle batteries – Global EV Outlook 2025"
+      ],
+      "evidence_sources": [
+        "IEA",
+        "IEA",
+        "IEA"
+      ],
+      "strength": 4,
+      "trend": "강화",
+      "suwon_implication": "수원시 소재 제조기업의 원자재 조달 비용 상승 가능성. 공급망 다변화 지원 정책 필요, 중소기업 경쟁력 약화 우려",
+      "is_structural": true,
+      "detected_date": "2026-05-28"
+    },
+    {
+      "signal_id": "sig_005",
+      "category": "정책패러다임전환",
+      "title_ko": "Net Zero 2050 목표와 청정에너지 투자 가속",
+      "description": "• IEA Net Zero 시나리오: 2050 탄소중립 달성 경로 구체화\n• 세계 에너지 투자 구조 변화 - 화석연료에서 재생에너지·전력망으로 이동\n• 각국 정책 기조가 '탄소중립 달성'을 필수 전제로 재편",
+      "evidence_titles": [
+        "Net Zero by 2050 – Analysis",
+        "Executive summary – World Energy Investment 2025 – Analysis",
+        "Tracking Clean Energy Progress 2023 – Analysis"
+      ],
+      "evidence_sources": [
+        "IEA",
+        "IEA",
+        "IEA"
+      ],
+      "strength": 4,
+      "trend": "강화",
+      "suwon_implication": "수원시 기후변화 대응 정책의 국제 정합성 확보 기회. 청정에너지 전환 지원 프로그램 확대, 건물 에너지 효율화 사업 가속 필요",
+      "is_structural": true,
+      "detected_date": "2026-05-28"
+    },
+    {
+      "signal_id": "sig_006",
+      "category": "지역질서재편",
+      "title_ko": "중동 에너지 수송로 안보 위협 상시화",
+      "description": "• 호르무즈 해협 등 주요 에너지 수송로 봉쇄 위험 현실화\n• IEA 중동 분쟁 대응 추적기: 각국 정부 에너지 영향 대응 정책 실시간 업데이트\n• 에너지 공급 루트 다변화, 비중동 에너지원 확보 경쟁 심화",
+      "evidence_titles": [
+        "Strait of Hormuz",
+        "IEA releases major update to tracker of government responses to energy impacts of Middle East conflict",
+        "Oil Market Report - April 2026 – Analysis"
+      ],
+      "evidence_sources": [
+        "IEA",
+        "IEA",
+        "IEA"
+      ],
+      "strength": 4,
+      "trend": "신규",
+      "suwon_implication": "수원시 에너지 비용 급등 리스크 대비 필요. 취약계층 난방비 긴급 지원 체계 점검, 에너지 가격 변동성 대응 완충장치 마련",
+      "is_structural": true,
+      "detected_date": "2026-05-28",
+      "first_detected": "2026-05-28"
+    },
+    {
+      "signal_id": "sig_009",
+      "category": "에너지안보재편",
+      "title_ko": "석유 시장 구조 변화 가속",
+      "description": "• IEA 월간 석유시장 보고서(2026년 3~5월): 공급·수요 패턴 급변\n• 전기차 보급, 재생에너지 확대로 석유 수요 정점 도래 시나리오 현실화\n• 중동 분쟁으로 공급 불확실성 증가하나 장기 수요 감소 추세는 지속",
+      "evidence_titles": [
+        "Oil Market Report - April 2026 – Analysis",
+        "Oil Market Report - March 2026 – Analysis",
+        "Oil Market Report - May 2026 – Analysis"
+      ],
+      "evidence_sources": [
+        "IEA",
+        "IEA",
+        "IEA"
+      ],
+      "strength": 4,
+      "trend": "강화",
+      "suwon_implication": "수원시 대중교통·공공차량 에너지원 전환 가속 필요. 유류비 변동성 대비, 친환경 모빌리티 전환 정책 강화 시점",
+      "is_structural": true,
+      "detected_date": "2026-05-28"
+    },
+    {
+      "signal_id": "sig_010",
+      "category": "정책패러다임전환",
+      "title_ko": "전력망 현대화 필수 과제화",
+      "description": "• IEA 전력 보고서(2024): 재생에너지·전기차·AI 인프라 확대로 전력망 부담 급증\n• 기존 전력망 구조로는 청정에너지 전환 감당 불가 판단\n• 스마트그리드, 분산형 전원 시스템 투자가 에너지 안보 핵심 과제로 부상",
+      "evidence_titles": [
+        "Electricity 2024 – Analysis",
+        "Electricity - Energy System",
+        "Energy supply for AI – Energy and AI – Analysis"
+      ],
+      "evidence_sources": [
+        "IEA",
+        "IEA",
+        "IEA"
+      ],
+      "strength": 4,
+      "trend": "강화",
+      "suwon_implication": "수원시 전력 인프라 노후화 대응 시급. 스마트시티 전력망 투자, 재생에너지 연계 분산전원 시스템 도입 검토 필요",
+      "is_structural": true,
+      "detected_date": "2026-05-28"
+    },
+    {
+      "signal_id": "sig_007",
+      "category": "민생충격패턴",
+      "title_ko": "에너지 위기 대응 시민 행동 변화",
+      "description": "• 에너지 위기를 계기로 각국 소비자들이 전기차 구매 등 에너지 절약형 선택 가속\n• 정부 보조금보다 에너지 안보 불안이 소비 패턴 변화의 주요 동인\n• 일회성 대응이 아닌 생활양식 전환 신호로 해석 가능",
+      "evidence_titles": [
+        "Close to 30% of cars sold this year are set to be electric as countries and consumers respond to energy crisis",
+        "Executive summary – Global EV Outlook 2025 – Analysis"
+      ],
+      "evidence_sources": [
+        "IEA",
+        "IEA"
+      ],
+      "strength": 3,
+      "trend": "신규",
+      "suwon_implication": "수원시민 에너지 소비 행동 변화 예상. 에너지 절약 인센티브 프로그램, 친환경 생활 지원 정책 효과성 증대 가능성",
+      "is_structural": true,
+      "detected_date": "2026-05-28",
+      "first_detected": "2026-05-28"
+    },
+    {
+      "signal_id": "sig_008",
+      "category": "무역공급망재편",
+      "title_ko": "수소 경제 인프라 경쟁 본격화",
+      "description": "• IEA 수소 미래 보고서: 수소가 청정에너지 전환의 핵심 매개체로 부상\n• 각국 수소 생산·저장·운송 인프라 투자 경쟁 시작\n• 기존 화석연료 공급망과 별도의 새로운 에너지 물류망 구축 단계",
+      "evidence_titles": [
+        "The Future of Hydrogen – Analysis",
+        "Executive summary – World Energy Outlook 2025 – Analysis"
+      ],
+      "evidence_sources": [
+        "IEA",
+        "IEA"
+      ],
+      "strength": 3,
+      "trend": "신규",
+      "suwon_implication": "수원시 수소 충전소 등 신규 에너지 인프라 수요 발생 가능. 수소 경제 선제 대응으로 산업 경쟁력 확보 기회",
+      "is_structural": true,
+      "detected_date": "2026-05-28",
+      "first_detected": "2026-05-28"
+    }
+  ],
+  "by_category": {
+    "에너지안보재편": 3,
+    "무역공급망재편": 2,
+    "정책패러다임전환": 3,
+    "지역질서재편": 1,
+    "민생충격패턴": 1
+  },
+  "summary_ko": "• 전기차 30% 돌파·AI 데이터센터 전력 폭증으로 에너지 수요 구조 근본 전환 중\n• 중동 분쟁으로 에너지 안보 기준이 '가격'에서 '공급 신뢰성'으로 패러다임 전환\n• 핵심 광물·수소 경제 등 新에너지 공급망 확보 경쟁 본격화\n• Net Zero 2050 목표 달성을 전제로 전 세계 에너지 투자·정책 재편 가속\n• 기존 전력망으로는 청정에너지 전환 감당 불가, 인프라 현대화 필수 과제화",
+  "top_signal": "AI 데이터센터 전력 수요 폭증",
+  "suwon_action": "• 전력 수요 예측 모델 즉시 재검토 및 전력망 현대화 투자 우선순위 상향 필요\n• 전기차 충전 인프라 확충, 에너지 취약계층 긴급 지원 체계 점검 착수",
+  "weekly_trend": {
+    "정책패러다임전환": {
+      "count": 3,
+      "max_strength": 5
+    },
+    "에너지안보재편": {
+      "count": 3,
+      "max_strength": 5
+    },
+    "무역공급망재편": {
+      "count": 2,
+      "max_strength": 4
+    },
+    "지역질서재편": {
+      "count": 1,
+      "max_strength": 4
+    },
+    "민생충격패턴": {
+      "count": 1,
+      "max_strength": 3
+    }
+  },
+  "generated_at": "2026-05-28T00:47:25.980003"
+}
